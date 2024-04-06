@@ -21,4 +21,3 @@ Hello! My name is Douglas Eduardo da Silva and I'm a technology enthusiast passi
 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bansshe)](https://github.com/Bansshe)
-<img height="180em" src="https://camo.githubusercontent.com/1bdd4b0350e7f817a3b0a0e27000853630a0d0000e4b63c2019e2c9e879d1728/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d566f67656c31323132266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d64726163756c61" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bansshe&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width: 100%;">
