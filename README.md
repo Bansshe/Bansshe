@@ -20,5 +20,5 @@ Hello! My name is Douglas Eduardo da Silva and I'm a technology enthusiast passi
 @ Contact me on douglas.silva@ucketech.com.br 💻
 
 
-![Bansshe's Stats](https://github-readme-stats.vercel.app/api?username=Bansshe&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Bansshe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bansshe&theme=dark&show_icons=true&hide_border=true&layout=compact)
 ![Bansshe's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bansshe&theme=dark&hide_border=true)
