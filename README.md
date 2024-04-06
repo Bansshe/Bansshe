@@ -1,6 +1,3 @@
-## GitHub Statistics
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bansshe)](https://github.com/Bansshe)
-
 # Bem-vindo ao Meu Perfil
 
 ## Sobre Mim
@@ -19,4 +16,8 @@ Hello! My name is Douglas Eduardo da Silva and I'm a technology enthusiast passi
 - 💼 Currently working as a SQA at 8Quali.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/bansshe/" target="_blank"><img style="width: 20px;" src="https://cdn-icons-png.flaticon.com/512/179/179330.png" target="_blank"></a>
 
+
 @ Contact me on douglas.silva@ucketech.com.br 💻
+
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bansshe)](https://github.com/Bansshe)
