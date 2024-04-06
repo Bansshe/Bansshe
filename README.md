@@ -16,8 +16,9 @@ Hello! My name is Douglas Eduardo da Silva and I'm a technology enthusiast passi
 - 💼 Currently working as SQA at 8Quali and Back-end at Ucke Technology.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/bansshe/" target="_blank"><img style="width: 20px;" src="https://cdn-icons-png.flaticon.com/512/179/179330.png" target="_blank"></a>
 
-<p align="center">
   @ Contact me on douglas.silva@ucketech.com.br 💻
+  
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bansshe&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Bansshe's Top Languages"><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bansshe&theme=dark&hide_border=true" alt="Bansshe's Streak">
 </p>
