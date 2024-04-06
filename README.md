@@ -21,6 +21,3 @@ Hello! My name is Douglas Eduardo da Silva and I'm a technology enthusiast passi
 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bansshe)](https://github.com/Bansshe)
-[![GitHub followers](https://img.shields.io/github/followers/Bansshe?style=social)](https://github.com/Bansshe)
-[![GitHub stars](https://img.shields.io/github/stars/Bansshe?style=social)](https://github.com/Bansshe)
-[![GitHub forks](https://img.shields.io/github/forks/Bansshe?style=social)](https://github.com/Bansshe)
