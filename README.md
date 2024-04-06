@@ -14,7 +14,7 @@ Hello! My name is Douglas Eduardo da Silva and I'm a technology enthusiast passi
 
 - 🌱 I'm always learning and seeking new challenges.
 - 💼 Currently working as SQA at 8Quali and Back-end at Ucke Technology.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/bansshe/" target="_blank"><img style="width: 20px;" src="https://cdn-icons-png.flaticon.com/512/179/179330.png" target="_blank"></a>
+- 📫 You can find me on LinkedIn: <a href="https://www.linkedin.com/in/bansshe/" target="_blank"><img style="width: 20px;" src="https://cdn-icons-png.flaticon.com/512/179/179330.png" target="_blank"></a>
 
   @ Contact me on douglas.silva@ucketech.com.br 💻
   
