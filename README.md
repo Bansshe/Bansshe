@@ -1,4 +1,4 @@
-# Bem-vindo ao Meu Perfil
+# Bem-vindo!
 
 ## Sobre Mim
 Olá! Meu nome é Douglas Eduardo da Silva e sou um entusiasta da tecnologia apaixonado por desenvolvimento de software.
@@ -7,7 +7,7 @@ Olá! Meu nome é Douglas Eduardo da Silva e sou um entusiasta da tecnologia apa
 - 💼 Atualmente trabalhando como SQA na 8Quali.
 - 📫 Você pode me encontrar no Linkedin: <a href="https://www.linkedin.com/in/bansshe/" target="_blank"><img style="width: 20px;" src="https://cdn-icons-png.flaticon.com/512/179/179330.png" target="_blank"></a> 
 
-# Welcome to My Profile!
+# Welcome!
 
 ## About Me
 Hello! My name is Douglas Eduardo da Silva and I'm a technology enthusiast passionate about software development.
