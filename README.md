@@ -1,7 +1,7 @@
 # Welcome!
 
 ## About Me
-Hello! My name is Douglas Eduardo da Silva and I'm a technology enthusiast passionate about software development.
+Hello! My name is Douglas Silva and I'm a technology enthusiast passionate about software development.
 
 - 🌱 I'm always learning and seeking new challenges.
 - 💼 Currently working as Developer at 8Quali.
